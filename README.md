@@ -1,5 +1,5 @@
 # Newcomers-Sheets
-##This repo will contains all Newcomers Sheets solve problems
+## This repo will contains all Newcomers Sheets solve problems
 * https://codeforces.com/group/MWSDmqGsZm/contest/219158 << **Data types sheet link on codeforces**
 
 
